@@ -26,9 +26,11 @@ A five-page Power BI dashboard covering Owner Overview; Sales & Service Performa
 Strong sales and gross margin do not automatically translate into strong remaining contribution. Recorded operating expenses absorb most of the gross profit. Branded Tee Shirts lead revenue; Polo Shirts lead total gross profit; Graphic Design has the highest gross margin percentage at much lower sales volume.
 
 ## Files
-- [Detailed demonstration case study](case-study/ClearLedger_Northstar_Demonstration_Case_Study.pdf)
-- [Editable Power BI report](power-bi/ClearLedger_Northstar_Business_Visibility.pbix)
-- [Five-page dashboard export](dashboard/ClearLedger_Northstar_Business_Visibility.pdf)
+[Read the Full Case Study](ClearLedger_Northstar_Demonstration_Case_Study%20%282%29.pdf)
+
+[Download the Power BI Dashboard](ClearLedger_Northstar_Business_Visibility.pbix)
+
+[View the Dashboard PDF](ClearLedger_Northstar_Business_Visibility.pdf)
 
 ## Important caveats
 This is a fictional case. Some records have unmatched customer/service IDs, missing dates, and payment-order exceptions. Reported cash/receivables figures are provisional analytical indicators, not audited receivables. `Operating contribution` is not accounting net profit. The case study is based on the exported report, not an independent engine-level audit of every DAX measure or model relationship.
